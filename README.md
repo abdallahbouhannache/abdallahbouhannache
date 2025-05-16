@@ -11,26 +11,20 @@
 
 **Languages & Frameworks**
 
-- Python, JavaScript, Java, C#
-- React, Node.js, Django, Next.js, Gatsby
-- React Native for mobile
-- Bash scripting, Arduino, Raspberry Pi
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Frontend**
+**Web & App Frameworks**
 
-- HTML, CSS, Bootstrap, Semantic UI, Material UI, Bulma
-
-**Backend**
-
-- REST APIs
-- MySQL, PostgreSQL, MongoDB
-- Apache, NGINX
-
-**DevOps & Tools**
-
-- Linux (Debian), Docker
-- Git, GitHub
-- Microsoft Excel & Word (advanced)
+- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+- ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
+- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
