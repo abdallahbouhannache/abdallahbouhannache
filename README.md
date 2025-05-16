@@ -11,7 +11,7 @@
 
 **Languages & Frameworks**
 
-- Python, JavaScript, Java, C
+- Python, JavaScript, Java, C#
 - React, Node.js, Django, Next.js, Gatsby
 - React Native for mobile
 - Bash scripting, Arduino, Raspberry Pi
@@ -46,11 +46,11 @@
 
 ### 🎓 Education
 
-**Master in Computer Science (STIC)**  
+**Master in Computer Science (STIC)**
 University Center Mila, Algeria  
 *2015 – 2017*
 
-**Bachelor in Computer Science**  
+**Bachelor in Computer Science**
 University Center Mila, Algeria  
 *2012 – 2015*
 
