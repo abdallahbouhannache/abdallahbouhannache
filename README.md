@@ -138,17 +138,6 @@ Inventory & data entry for depreciable and consumable assets
 - French (fluent)
 - English (fluent)
 
----
-
-### 📸 Gallery
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdallahbouhannache/portfolio-assets/main/project1.png" width="200" />
-  <img src="https://raw.githubusercontent.com/abdallahbouhannache/portfolio-assets/main/project2.png" width="200" />
-  <img src="https://raw.githubusercontent.com/abdallahbouhannache/portfolio-assets/main/project3.png" width="200" />
-</p>
-
----
 
 ### 🤔 Want to collaborate?
 
